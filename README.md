@@ -26,6 +26,6 @@ VeganArmy is purely intended for fun and entertainment and should not be taken s
 
 ### License
 
-This plugin is open-source and licensed under the [Apache License 2.0](LICENSE).
+This plugin is open-source and licensed under the [MIT License](LICENSE).
 
 Happy gaming, and remember, it's all in good fun! 🌱
