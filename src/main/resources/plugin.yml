@@ -1,0 +1,4 @@
+name: VeganArmy
+version: '${project.version}'
+main: me.chickenwizzard.veganarmy.VeganArmy
+api-version: '1.20'
