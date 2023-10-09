@@ -21,7 +21,7 @@ Once installed, VeganArmy will seamlessly integrate into your Minecraft gameplay
 We welcome contributions and suggestions from the Minecraft community. If you have ideas for new vegan-themed content or improvements to the plugin, please feel free to submit a pull request or open an issue on our GitHub repository.
 
 ### Help
-If you ever need help our want to talk to other Minecraft users just join our [discord server](https://discord.gg/6nTJ5eNgdx)
+If you ever need help our want to talk to other Minecraft users just join our [discord server](https://discord.gg/6nTJ5eNgdx).
 
 ### Disclaimer
 
